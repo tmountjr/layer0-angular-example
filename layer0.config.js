@@ -5,8 +5,8 @@ module.exports = {
   routes: './src/layer0/routes.ts',
   backends: {
     api: {
-      domainOrIp: 'layer0-docs-layer0-examples-api-default.layer0.link',
-      hostHeader: 'layer0-docs-layer0-examples-api-default.layer0.link',
+      domainOrIp: 'demos-layer0-angular-example-default.layer0-limelight.link',
+      hostHeader: 'demos-layer0-angular-example-default.layer0-limelight.link',
     },
   },
 }
